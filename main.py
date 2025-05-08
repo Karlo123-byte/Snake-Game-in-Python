@@ -5,3 +5,5 @@ if godine < 18:
     print("Niste punoljetni")
 else:
     print("Punoljetni ste")
+
+#Izmjena od strane Karla 
